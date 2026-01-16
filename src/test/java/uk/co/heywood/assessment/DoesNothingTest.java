@@ -1,4 +1,4 @@
-package uk.co.heywood;
+package uk.co.heywood.assessment;
 
 import static org.junit.jupiter.api.Assertions.*;
 
