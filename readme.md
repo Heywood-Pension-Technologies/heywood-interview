@@ -10,7 +10,7 @@ We'll make sure there's time for a quick break approximately half way through.
 ##### Prerequisistes
 
 1. Somewhere quiet for up to two hours
-2. An internet connected PC capable of capable of running IntelliJ IDEA & Microsoft Teams
+2. An internet connected PC capable of running IntelliJ IDEA & Microsoft Teams
 3. A webcam, microphone & speakers (or a headset)
 
 ##### Setup
