@@ -7,7 +7,7 @@ There are two parts to your assessment
 
 We'll make sure there's time for a quick break approximately half way through.
  
-##### Prerequisistes
+##### Prerequisites
 
 1. Somewhere quiet for up to two hours
 2. An internet connected PC capable of running IntelliJ IDEA & Microsoft Teams
